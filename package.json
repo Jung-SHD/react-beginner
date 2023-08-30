@@ -40,5 +40,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage" : "https://Jung-SHD.github.id/react-beginner"
+  "homepage": "https://Jung-SHD.github.id/react-beginner",
+  "devDependencies": {
+    "@types/react-router-dom": "^5.3.3"
+  }
 }
